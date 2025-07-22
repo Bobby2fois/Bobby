@@ -1,7 +1,14 @@
 # About Me:
 
-Student at 42Lyon
+Student at 42Lyon | Blockchain developer | Web3 enthusiast
 
+## 🚀 Crypto & Personal Projects
+
+| Project link | Description | Languages/Techs |
+|-------------|-------------|----------------|
+| [TokenizeArt](https://github.com/bobby2fois/tokenizeart) | An on-chain SVG NFT project featuring dynamically generated artwork with the 42 logo, deployed on BSC Testnet with customizable properties stored entirely on the blockchain | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+| [Tokenizer](https://github.com/bobby2fois/tokenizer) | An ERC20 token implementation with enhanced security features including a multi-signature mechanism for large transfers on the Binance Smart Chain | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+| [BSC_Farmer](https://github.com/bobby2fois/BSC_Farmer) | Description | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ## 💻 My Core curriculum 42
 
 | Project link | Description | Languages/Techs | Final grade |
@@ -20,8 +27,6 @@ Student at 42Lyon
 | [CPP_modules](https://github.com/bobby2fois/cpp-modules) | A series of ten modules exploring fundamental to advanced C++ concepts, including classes, inheritance, polymorphism, templates, and standard library containers | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | 100/100 |
 | [Webserv](https://github.com/bobby2fois/webserv) | A custom HTTP server implementation from scratch supporting multiple virtual servers, request handling, CGI execution, and configuration files | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | 100/100 |
 | [Transcendence](https://github.com/bobby2fois/transcendence) | Final project of 42 common core, a modern web-based implementation of the classic Pong game with real-time multiplayer, tournaments, power-ups, and user authentication | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) | 110/125 |
-| [Tokenizer](https://github.com/bobby2fois/tokenizer) | An ERC20 token implementation with enhanced security features including a multi-signature mechanism for large transfers on the Binance Smart Chain | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) | 120/120 |
-| [TokenizeArt](https://github.com/bobby2fois/tokenizeart) | An on-chain SVG NFT project featuring dynamically generated artwork with the 42 logo, deployed on BSC Testnet with customizable properties stored entirely on the blockchain | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | 125/125 |
 | [Linear_Regression](https://github.com/bobby2fois/linear_regression) | A machine learning implementation that uses gradient descent algorithm to predict car prices based on mileage, featuring data normalization, model training, and visualization | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 115/125 |
 
 ## 📊 GitHub Stats:
