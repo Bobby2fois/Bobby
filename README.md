@@ -8,7 +8,7 @@ Student at 42Lyon | Blockchain developer | Web3 enthusiast
 |-------------|-------------|----------------|
 | [TokenizeArt](https://github.com/bobby2fois/tokenizeart) | An on-chain SVG NFT project featuring dynamically generated artwork with the 42 logo, deployed on BSC Testnet with customizable properties stored entirely on the blockchain | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 | [Tokenizer](https://github.com/bobby2fois/tokenizer) | An ERC20 token implementation with enhanced security features including a multi-signature mechanism for large transfers on the Binance Smart Chain | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-| [BSC_Farmer](https://github.com/bobby2fois/BSC_Farmer) | Description | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+| [BSC_Farmer](https://github.com/bobby2fois/BSC_Farmer) | An Educational yield farming dApp on BSC featuring a corn/farmer theme where users stake BNB to earn rewards. Created to improve blockchain development skills | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ## 💻 My Core curriculum 42
 
 | Project link | Description | Languages/Techs | Final grade |
