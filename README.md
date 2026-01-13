@@ -1,6 +1,6 @@
 # About Me:
 
-Student at 42Lyon | Blockchain developer | Web3 enthusiast
+Student at 42Lyon | Data & Analytics | Web3 enthusiast
 
 ## 🚀 Crypto & Personal Projects
 
