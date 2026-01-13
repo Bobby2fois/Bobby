@@ -2,6 +2,13 @@
 
 Student at 42Lyon | Data & Analytics | Web3 enthusiast
 
+## 🚀 Data Projects
+
+| Project link | Description | Languages/Techs | Final grade |
+|-------------|-------------|----------------|------------|
+| [DSLR](https://github.com/bobby2fois/1inch_swap) | A machine learning project implementing multiclass logistic regression from scratch to predict Hogwarts houses based on student grades. Features one-vs-all classification, custom statistical analysis mimicking pandas describe(), and data visualization tools including histograms, scatter plots, and pair plots for exploratory data analysis | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | TBD |
+| [Linear_Regression](https://github.com/bobby2fois/linear_regression) | A machine learning implementation that uses gradient descent algorithm to predict car prices based on mileage, featuring data normalization, model training, and visualization | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 115/125 |
+
 ## 🚀 Blockchain & Personal Projects
 
 | Project link | Description | Languages/Techs |
@@ -30,22 +37,25 @@ Student at 42Lyon | Data & Analytics | Web3 enthusiast
 | [CPP_modules](https://github.com/bobby2fois/cpp-modules) | A series of ten modules exploring fundamental to advanced C++ concepts, including classes, inheritance, polymorphism, templates, and standard library containers | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | 100/100 |
 | [Webserv](https://github.com/bobby2fois/webserv) | A custom HTTP server implementation from scratch supporting multiple virtual servers, request handling, CGI execution, and configuration files | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | 100/100 |
 | [Transcendence](https://github.com/bobby2fois/transcendence) | Final project of 42 common core, a modern web-based implementation of the classic Pong game with real-time multiplayer, tournaments, power-ups, and user authentication | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) | 110/125 |
-| [Linear_Regression](https://github.com/bobby2fois/linear_regression) | A machine learning implementation that uses gradient descent algorithm to predict car prices based on mileage, featuring data normalization, model training, and visualization | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 115/125 |
+
+
 
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=bobby2fois&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bobby2fois&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bobby2fois&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=yourusername&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bobby2fois&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 💻 Skills & Technologies
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
