@@ -2,7 +2,7 @@
 
 Student at 42Lyon | Data & Analytics | Web3 enthusiast
 
-## 💻 Data Projects
+## 📊 Data Projects
 
 | Project link | Description | Languages/Techs | Final grade |
 |-------------|-------------|----------------|------------|
