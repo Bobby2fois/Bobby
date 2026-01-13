@@ -2,7 +2,7 @@
 
 Student at 42Lyon | Data & Analytics | Web3 enthusiast
 
-## 🚀 Crypto & Personal Projects
+## 🚀 Blockchain & Personal Projects
 
 | Project link | Description | Languages/Techs |
 |-------------|-------------|----------------|
